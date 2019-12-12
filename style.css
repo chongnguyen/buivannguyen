@@ -15,6 +15,7 @@ body {
     min-height: 660px;
     background: #097f90 url('./image/header-bg.png') no-repeat center bottom;
     background-size: cover;
+    overflow: hidden;
 }
 
 #navbar {
@@ -132,6 +133,7 @@ body {
 /* about */
 #about {
     padding: 75px 0px;
+    overflow: hidden;
 }
 
 #about .heading-primary, 
